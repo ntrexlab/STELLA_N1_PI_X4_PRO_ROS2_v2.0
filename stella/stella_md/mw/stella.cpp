@@ -167,7 +167,4 @@ int Robot_Setting(int choice)
 
     return 1;
 }
-    
 
-    return 1;
-}
